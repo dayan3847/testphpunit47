@@ -1,0 +1,22 @@
+{
+    "name": "dayan3847/testphpunit47",
+    "description": "Test with php unit",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "9.5.x-dev"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dayan3847\\Testphpunit47\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dayan Bravo",
+            "email": "dayan3847@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
